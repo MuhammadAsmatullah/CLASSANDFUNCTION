@@ -21,7 +21,7 @@ class Students
     {
         static void Main (string[] args)
         {
-            Students s_details = new Students("Abdur Rehman", 2040, 'B');
+            Students s_details = new Students("Muhammad Asmatullah", 2040, 'B');
             s_details.DisplayStudentDetails();
         }
     }
